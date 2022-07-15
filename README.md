@@ -4,3 +4,5 @@ or don't have selected.
 
 
 cmake . -Bbuild -G "Visual Studio 16 2019"
+
+or load plugin in build/debug
